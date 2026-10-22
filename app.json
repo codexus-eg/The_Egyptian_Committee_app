@@ -77,8 +77,9 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "3181ef77-d33a-445b-bd10-1440bfb25eb1"
+        "projectId": "7bebbbfb-280a-4483-a66c-833f94843324"
       }
-    }
+    },
+    "owner": "ahmed594"
   }
 }
