@@ -7,6 +7,25 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:117167828817:android:deb18147a34400ec472d70",
+        "android_client_info": {
+          "package_name": "com.abdullah.lahham.maser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO6FupoU9Ol3XbOQt-fIDnJoZmBXlOCGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:117167828817:android:c2506ba76bce496b472d70",
         "android_client_info": {
           "package_name": "com.abdullah.lahham123.maser"
